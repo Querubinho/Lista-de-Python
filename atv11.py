@@ -1,11 +1,12 @@
-#Crie um sistema de login que não permite que o nome de usuário e a senha sejam iguais.
+# Erick Raphael - 3º ano B  
+# Atividade para a professora Letícia  
 
-user = input("Informe seu login: ")
+login = input("Informe seu login: ")
 senha = input("Informe sua senha: ")
 
-while user == senha:
+while login == senha:
     print("Sua senha e login nao podem ser iguais, tente de novo.")
-    user = input("Informe seu login: ")
+    login = input("Informe seu login: ")
     senha = input("Informe sua senha: ")
 
 else:
