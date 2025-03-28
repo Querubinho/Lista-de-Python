@@ -1,4 +1,5 @@
-#Peça três números ao usuário e informe qual é o maior e qual é o menor.
+# Erick Raphael - 3º ano B  
+# Atividade para a professora Letícia  
 
 n1 = int(input("Diga um numero: "))
 n2 = int(input("Diga outro numero: "))
