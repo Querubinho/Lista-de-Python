@@ -1,7 +1,8 @@
-#Solicite uma temperatura em Celsius e converta para Fahrenheit.
+# Erick Raphael - 3º ano B  
+# Atividade para a professora Letícia  
 
 temp = int(input("Diga uma temperatura em Celsius: "))
 
-conv = (temp * 9/5) + 32
+faren = (temp * 9/5) + 32
 
-print(f"Temperatua convertida: {conv}")
+print(f"Temperatua convertida: {faren}")
