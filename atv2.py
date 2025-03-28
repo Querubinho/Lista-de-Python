@@ -1,6 +1,7 @@
-#Solicite um valor em segundos e converta para dias, horas e minutos.
+# Erick Raphael - 3º ano B  
+# Atividade para a professora Letícia  
 
-tempo = int(input("Diga o valor dos segundos:"))
+tempo = int(input("Diga os segundos:"))
 
 minutos = tempo // 60
 horas = minutos // 60
