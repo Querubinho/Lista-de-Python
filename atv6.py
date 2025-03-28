@@ -1,4 +1,5 @@
-#Crie um programa que gere e exiba os 100 primeiros números primos.
+# Erick Raphael - 3º ano B  
+# Atividade para a professora Letícia  
 
 def analise_primo(n):
     if n < 2:
