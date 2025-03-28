@@ -1,5 +1,5 @@
-#Peça ao usuário a quantidade de turmas e a quantidade total de alunos. Informe a
-#média de alunos por turma, mas avise se alguma turma tiver mais de 40 alunos.
+# Erick Raphael - 3º ano B  
+# Atividade para a professora Letícia  
 
 turmas = int(input("Informe a quantidade de turmas: "))
 alunos = int(input("Informe a quantidade total de alunos: "))
