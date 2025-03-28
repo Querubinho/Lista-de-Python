@@ -1,16 +1,16 @@
-#Solicite um número ímpar ao usuário e calcule a diferença entre o quadrado do
-#número anterior e do próximo número ímpar.
+# Erick Raphael - 3º ano B  
+# Atividade para a professora Letícia  
 
-numero = int(input("Diga um numero impar:"))
+num = int(input("Diga um numero impar:"))
 
-anterior = numero - 2
+anterior = num - 2
 num_anterior = anterior * anterior
 
-posterior = numero + 2
+posterior = num + 2
 num_posterior = posterior * posterior
 
-dif_anterior =  - numero 
-dif_posterior = num_posterior - numero 
+dif_anterior = num_anterior - num 
+dif_posterior = num_posterior - num
 
 print(f"Diferenca do quadrado do anterior: {dif_anterior}.")
 print(f"Diferenca do quadrado do posterior: {dif_posterior}.")
